@@ -1,0 +1,15 @@
+.title {
+    font-weight: 600;
+    font-size: larger;
+    text-align: center;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img {
+    width: 80px;
+    margin-top: 50px;
+}
