@@ -1,0 +1,15 @@
+.about {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+.title {
+    text-align: center;
+    font-size: larger;
+}
+
+.our-story-img {
+    border: none;
+    border-radius: 10px;
+}
