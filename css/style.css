@@ -1,0 +1,18 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.content-nav {
+    font-size: larger;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.icon {
+    width: 35px;
+}
